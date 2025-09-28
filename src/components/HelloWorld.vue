@@ -7,7 +7,7 @@
         <br />
         <br />
         <label for="email">Email:</label>
-        <input type="email" v-model="email" id="email" name="email" required />
+        <input type="Minanjal" v-model="email" id="email" name="email" required />
         <br />
         <br />
         <label for="phone">Phone:</label>
