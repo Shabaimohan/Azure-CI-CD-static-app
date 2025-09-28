@@ -2,12 +2,12 @@
   <div class="hello">
     <div>
       <form>
-        <label for="name">Name:</label>
+        <label for="name">Peyar:</label>
         <input type="text" v-model="name" id="name" name="name" required />
         <br />
         <br />
-        <label for="email">Email:</label>
-        <input type="Minanjal" v-model="email" id="email" name="email" required />
+        <label for="email">Minanjal:</label>
+        <input type="email" v-model="email" id="email" name="email" required />
         <br />
         <br />
         <label for="phone">Phone:</label>
